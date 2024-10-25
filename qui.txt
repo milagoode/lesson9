@@ -1,0 +1,11 @@
+Which construct is used to access a structure field?
+->
+.
+=
+2
+What is a union in programming?
+A data type that saves memory
+A data type that allows you to store several values at the same time
+Built-in data type
+1
+Which of the following constructs is correct for accessing a structure field through a pointer?
